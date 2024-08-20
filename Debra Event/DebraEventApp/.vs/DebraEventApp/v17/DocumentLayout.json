@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\shan\\onedrive\\desktop\\chalith\\sem 4\\assignment\\soc\\debra event\\debraeventapp\\debraeventapp\\admineventview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\admineventview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\debraeventapp\\adminviewticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\adminviewticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\debraeventapp\\adminviewticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\adminviewticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\shan\\onedrive\\desktop\\chalith\\sem 4\\assignment\\soc\\debra event\\debraeventapp\\debraeventapp\\admineventview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\admineventview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\shan\\onedrive\\desktop\\chalith\\sem 4\\assignment\\soc\\debra event\\debraeventapp\\debraeventapp\\setticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\setticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\shan\\onedrive\\desktop\\chalith\\sem 4\\assignment\\soc\\debra event\\debraeventapp\\debraeventapp\\createeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\createeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\shan\\onedrive\\desktop\\chalith\\sem 4\\assignment\\soc\\debra event\\debraeventapp\\debraeventapp\\createeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\createeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\shan\\onedrive\\desktop\\chalith\\sem 4\\assignment\\soc\\debra event\\debraeventapp\\debraeventapp\\adminloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\adminloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\shan\\onedrive\\desktop\\chalith\\sem 4\\assignment\\soc\\debra event\\debraeventapp\\debraeventapp\\adminloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\adminloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\shan\\onedrive\\desktop\\chalith\\sem 4\\assignment\\soc\\debra event\\debraeventapp\\debraeventapp\\setticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\setticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\shan\\onedrive\\desktop\\chalith\\sem 4\\assignment\\soc\\debra event\\debraeventapp\\debraeventapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\debraeventapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\debraeventapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\shan\\onedrive\\desktop\\chalith\\sem 4\\assignment\\soc\\debra event\\debraeventapp\\debraeventapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|c:\\users\\shan\\onedrive\\desktop\\chalith\\sem 4\\assignment\\soc\\debra event\\debraeventapp\\debraeventapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5760300-0D54-4FEA-9020-396209EA15CD}|DebraEventApp\\DebraEventApp.csproj|solutionrelative:debraeventapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SetTicketForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\SetTicketForm.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\SetTicketForm.cs",
+              "ToolTip": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\SetTicketForm.cs [Design]",
+              "RelativeToolTip": "DebraEventApp\\SetTicketForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T21:52:36.617Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminViewTicket.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\AdminViewTicket.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\AdminViewTicket.cs",
+              "ToolTip": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\AdminViewTicket.cs [Design]",
+              "RelativeToolTip": "DebraEventApp\\AdminViewTicket.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:36:41.371Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminViewTicket.cs",
+              "DocumentMoniker": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\AdminViewTicket.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\AdminViewTicket.cs",
+              "ToolTip": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\AdminViewTicket.cs",
+              "RelativeToolTip": "DebraEventApp\\AdminViewTicket.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAA7wGUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T19:37:07.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminEventView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\AdminEventView.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\AdminEventView.cs",
+              "ToolTip": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\AdminEventView.cs [Design]",
+              "RelativeToolTip": "DebraEventApp\\AdminEventView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:36:56.236Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminEventView.cs",
+              "DocumentMoniker": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\AdminEventView.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\AdminEventView.cs",
+              "ToolTip": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\AdminEventView.cs",
+              "RelativeToolTip": "DebraEventApp\\AdminEventView.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAswMgAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:24:53.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateEventForm.cs",
+              "DocumentMoniker": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\CreateEventForm.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\CreateEventForm.cs",
+              "ToolTip": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\CreateEventForm.cs",
+              "RelativeToolTip": "DebraEventApp\\CreateEventForm.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAowMEAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:11:06.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateEventForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\CreateEventForm.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\CreateEventForm.cs",
+              "ToolTip": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\CreateEventForm.cs [Design]",
+              "RelativeToolTip": "DebraEventApp\\CreateEventForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:36:19.384Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminLoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\AdminLoginForm.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\AdminLoginForm.cs",
+              "ToolTip": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\AdminLoginForm.cs",
+              "RelativeToolTip": "DebraEventApp\\AdminLoginForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:33:07.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminLoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\AdminLoginForm.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\AdminLoginForm.cs",
+              "ToolTip": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\AdminLoginForm.cs [Design]",
+              "RelativeToolTip": "DebraEventApp\\AdminLoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:33:04.533Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SetTicketForm.cs",
+              "DocumentMoniker": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\SetTicketForm.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\SetTicketForm.cs",
+              "ToolTip": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\SetTicketForm.cs",
+              "RelativeToolTip": "DebraEventApp\\SetTicketForm.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswEoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T21:52:38.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\RegisterForm.cs",
+              "RelativeToolTip": "DebraEventApp\\RegisterForm.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswEMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T21:34:54.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "DebraEventApp\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:31:44.9Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\LoginForm.cs",
+              "RelativeToolTip": "DebraEventApp\\LoginForm.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA9wDcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:23:02.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\Form1.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\Form1.cs [Design]",
+              "RelativeToolTip": "DebraEventApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T21:36:06.397Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "DebraEventApp\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Shan\\OneDrive\\Desktop\\Chalith\\SEM 4\\Assignment\\SOC\\Debra Event\\DebraEventApp\\DebraEventApp\\LoginForm.cs [Design]",
+              "RelativeToolTip": "DebraEventApp\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T21:34:37.162Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
